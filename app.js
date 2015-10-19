@@ -17,7 +17,7 @@ Cylon.robot({
 
   work: function(my) {
   	my.headset.on('packet', function(){
-  		console.log('packet recieved');
+  		console.log('packet recei`ved');
   	});
   }
 
