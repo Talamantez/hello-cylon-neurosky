@@ -1,0 +1,24 @@
+{
+  "name": "hello-cylon-neurosky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cylon": "^1.2.0",
+    "cylon-neurosky": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Talamantez/hello-cylon-neurosky.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Talamantez/hello-cylon-neurosky/issues"
+  },
+  "homepage": "https://github.com/Talamantez/hello-cylon-neurosky"
+}
