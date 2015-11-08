@@ -1,10 +1,9 @@
-# Hello Cyclon Neurosky
+# Hello Cylon Neurosky
 
 As of 8/19/2015, gort [http://gort.io/] was in the process of updating its CLI for Ubuntu 14.04 for bluetooth devices.  This small program is a bare-minimum file to use with debugging the connection of a Neurosky Mindwave Mobile.
 
 
-
-## This is a transcript of a debugging session to use as reference for connecting mindwave mobile to ubuntu 14.04
+### Transcript of debugging session
 
 <p>[14:49] == talamantez [49a2adbf@gateway/web/freenode/ip.73.162.173.191] has joined #cylon
 
@@ -114,4 +113,4 @@ discovery-mode
 
 <p>[15:29] <deadprogram> sudo rfcomm connect rfcomm0 20:68:9D:4C:0D:B7
 
-<p>[15:29] <deadprogram> if it is paired, and the mindwave is on, you should see message from rfcomm to that effect
+<p>[15:29] <deadprogram> if it is paired, and the mindwave is on, you should see message from rfcomm to that effect`
