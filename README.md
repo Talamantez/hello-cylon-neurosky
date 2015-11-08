@@ -1,6 +1,6 @@
 # Hello Cyclon Neurosky
 
-As of 8/19/2015, gort [http://gort.io/] had yet to update its CLI.  This small program is a bare-minimum file to use with debugging.
+As of 8/19/2015, gort [http://gort.io/] was in the process of updating its CLI for Ubuntu 14.04 for bluetooth devices.  This small program is a bare-minimum file to use with debugging.
 
 
 
